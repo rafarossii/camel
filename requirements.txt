@@ -1,0 +1,5 @@
+Flask
+Gunicorn
+playwright
+requests==2.31.0
+requests-html==0.10.0
